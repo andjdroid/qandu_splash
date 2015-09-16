@@ -1,1 +1,1 @@
-# quandu_splash
+# qandu_splash
